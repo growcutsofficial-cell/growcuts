@@ -233,7 +233,7 @@ export default function Hero() {
               <Star className="h-4 w-4 fill-current" />
             </div>
             <p className="text-sm text-neutral-400 font-medium">
-              Trusted by 50+ Creators & Brands worldwide.
+              Cinematic quality. Flawless execution. Delivered on time.
             </p>
           </motion.div>
 
