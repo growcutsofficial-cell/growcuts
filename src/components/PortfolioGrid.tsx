@@ -152,8 +152,8 @@ export default function PortfolioGrid() {
                       className="object-cover transition-transform duration-500 group-hover:scale-105"
                     />
                     {/* Hover Overlay */}
-                    <div className="absolute inset-0 bg-black/60 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-                      <div className="flex h-12 w-12 items-center justify-center rounded-full bg-brand-accent text-obsidian transform scale-75 group-hover:scale-100 transition-all duration-300 shadow-lg">
+                    <div className="absolute inset-0 bg-black/20 md:bg-black/60 flex items-center justify-center opacity-100 md:opacity-0 md:group-hover:opacity-100 transition-opacity duration-300">
+                      <div className="flex h-12 w-12 items-center justify-center rounded-full bg-brand-accent text-obsidian transform scale-100 md:scale-75 md:group-hover:scale-100 transition-all duration-300 shadow-lg">
                         <Play className="h-5 w-5 fill-obsidian ml-0.5" />
                       </div>
                     </div>

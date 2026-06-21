@@ -57,6 +57,7 @@ export default function RootLayout({
       className={`${inter.variable} ${outfit.variable} h-full antialiased dark`}
       suppressHydrationWarning
     >
+      <head suppressHydrationWarning />
       {/* We add pb-20 on mobile to ensure content isn't obscured by the sticky bottom menu */}
       <body className="min-h-full flex flex-col bg-obsidian text-foreground pb-20 md:pb-0 relative overflow-x-hidden" suppressHydrationWarning>
         <Navbar />

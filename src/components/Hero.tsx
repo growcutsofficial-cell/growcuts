@@ -106,7 +106,7 @@ export default function Hero() {
         {/* Cinematic Background Image */}
         <div className="absolute inset-0 -z-20 opacity-75 [mask-image:radial-gradient(circle_at_center,black_70%,transparent_98%)]">
           <Image
-            src="/dark-cinematic-bg.jpeg"
+            src="/dark-cinematic-bg.webp"
             alt="Cinematic Background"
             fill
             priority
