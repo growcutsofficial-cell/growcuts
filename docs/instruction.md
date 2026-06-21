@@ -1,0 +1,365 @@
+Since you're using Anti Gravity AI, the easiest approach is to give it a very detailed prompt so it can generate most of the website structure and content for you.
+
+
+---
+
+Website Goal
+
+Create a modern, premium landing page for a video editing agency that helps creators and businesses produce engaging videos that increase views, retention, and conversions.
+
+Agency focus (for now):
+
+Short-form video editing (Instagram Reels, YouTube Shorts, TikTok)
+
+YouTube video editing
+
+Promotional videos for businesses
+
+Motion graphics and basic animations
+
+
+Future plan: The website should be built so additional services can be added later without redesigning the entire site.
+
+Target audience:
+
+Content creators
+
+YouTubers
+
+Small businesses
+
+Personal brands
+
+Coaches and startups
+
+
+Style:
+
+Modern
+
+Minimal
+
+Premium
+
+Fast-loading
+
+Mobile-first
+
+Professional
+
+Dark theme with subtle cinematic elements
+
+
+
+---
+
+Prompt for Anti Gravity AI
+
+> Create a premium one-page website for a video editing agency called [Your Agency Name].
+
+The website should have a cinematic, modern, and high-converting design focused on helping creators and businesses improve their video content.
+
+Use a dark theme with clean typography, strong calls to action, subtle animations, and a mobile-first responsive layout.
+
+The design should feel similar to high-end creative agencies.
+
+Include the following sections:
+
+
+
+
+---
+
+1. Hero Section
+
+Headline:
+
+Videos That Capture Attention and Drive Results
+
+Subheadline:
+
+"We help creators and businesses transform raw footage into engaging videos that increase views, retention, and audience growth."
+
+Buttons:
+
+Get a Free Consultation
+
+View Our Work
+
+
+Include:
+
+Background video or cinematic visual
+
+Short trust statement:
+
+Fast turnaround
+
+Professional quality
+
+Unlimited creativity
+
+
+
+
+---
+
+2. Services Section
+
+Title:
+
+What We Do
+
+Display service cards for:
+
+Short-Form Editing
+
+Instagram Reels, YouTube Shorts, TikTok videos optimized for engagement.
+
+YouTube Editing
+
+Professional editing that improves viewer retention and storytelling.
+
+Promotional Videos
+
+High-converting videos for brands, products, and businesses.
+
+Motion Graphics
+
+Titles, transitions, animations, subtitles, and visual enhancements.
+
+Design:
+
+Hover animations
+
+Icons
+
+Expandable cards
+
+
+
+---
+
+3. Portfolio Section
+
+Title:
+
+Featured Work
+
+Display a video gallery featuring:
+
+Reel edits
+
+YouTube edits
+
+Promotional videos
+
+Motion graphic projects
+
+
+Each portfolio item should include:
+
+Thumbnail
+
+Category
+
+Short description
+
+
+Allow easy replacement of demo videos with future client work.
+
+
+---
+
+4. Why Choose Us
+
+Title:
+
+Why Clients Choose Us
+
+Use icon cards highlighting:
+
+Fast Delivery
+
+Attention to Detail
+
+Creative Storytelling
+
+Reliable Communication
+
+Platform-Specific Editing
+
+Professional Quality
+
+
+
+---
+
+5. Our Process
+
+Title:
+
+Simple. Clear. Efficient.
+
+Step 1: Send Your Footage
+
+Step 2: We Edit and Refine
+
+Step 3: Review and Feedback
+
+Step 4: Receive Final Delivery
+
+Display as a timeline.
+
+
+---
+
+6. Testimonials
+
+Title:
+
+What Clients Say
+
+Include three placeholder testimonials that can be replaced later.
+
+Show:
+
+Client name
+
+Role
+
+Review
+
+
+
+---
+
+7. About Section
+
+Title:
+
+About [Agency Name]
+
+Content:
+
+"We are passionate video editors dedicated to helping creators and brands stand out through compelling visual storytelling. Our mission is simple: deliver videos that look professional, engage audiences, and support business growth."
+
+
+---
+
+8. FAQ Section
+
+Questions:
+
+What is your turnaround time?
+
+How many revisions are included?
+
+Which file formats do you accept?
+
+Do you edit videos for businesses and creators?
+
+How do we get started?
+
+
+Use an accordion layout.
+
+
+---
+
+9. Contact Section
+
+Title:
+
+Let's Create Something Amazing
+
+Include:
+
+Contact form
+
+WhatsApp button
+
+Email address
+
+Instagram link
+
+
+CTA:
+
+Ready to elevate your videos? Let's talk.
+
+
+---
+
+10. Footer
+
+Include:
+
+Agency logo
+
+Navigation links
+
+Social links
+
+Copyright notice
+
+
+Text:
+
+"© 2026 [Agency Name]. All rights reserved."
+
+
+---
+
+Extra Instructions
+
+Tell Anti Gravity AI to:
+
+Optimize for conversions.
+
+Ensure fast loading speeds.
+
+Make the design fully responsive.
+
+Use SEO-friendly structure.
+
+Allow easy addition of future services and case studies.
+
+Use smooth but subtle animations.
+
+Keep the code modular and scalable.
+
+
+
+---
+
+Before You Build
+
+Prepare these assets:
+
+Agency name
+
+Logo (even a simple text logo is fine)
+
+5–10 best editing samples
+
+WhatsApp number
+
+Email address
+
+Instagram handle
+
+Client testimonials (when you get them)
+
+
+One Important Tip
+
+Since you're just starting, don't worry if you don't have many client projects. Create 2–3 spec projects (demo edits) that showcase your editing style. A strong portfolio matters more than having many projects.
+
+Your first goal isn't to build a huge agency website. It's to create a site that makes a visitor think:
+
+> "These people can edit my videos professionally. I should contact them."
+
+
+
+Once you start getting clients, you can expand it into a full creative agency website with additional services and detailed case studies.
