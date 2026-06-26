@@ -40,6 +40,7 @@ export default function Navbar() {
         {/* Desktop Navigation */}
         <nav className="hidden md:flex items-center space-x-8">
           <Link href="/" className="text-sm font-medium text-obsidian-muted transition-colors hover:text-white">Home</Link>
+          <Link href="#services" className="text-sm font-medium text-obsidian-muted transition-colors hover:text-white">Services</Link>
           <Link href="#work" className="text-sm font-medium text-obsidian-muted transition-colors hover:text-white">Work</Link>
           <Link href="#process" className="text-sm font-medium text-obsidian-muted transition-colors hover:text-white">Process</Link>
           <Link href="#faq" className="text-sm font-medium text-obsidian-muted transition-colors hover:text-white">FAQ</Link>
@@ -64,6 +65,7 @@ export default function Navbar() {
         <div className="border-b border-obsidian-border bg-obsidian px-6 py-6 md:hidden">
           <nav className="flex flex-col space-y-4">
             <Link href="/" onClick={() => setIsOpen(false)} className="text-base font-medium text-obsidian-muted hover:text-white transition-colors">Home</Link>
+            <Link href="#services" onClick={() => setIsOpen(false)} className="text-base font-medium text-obsidian-muted hover:text-white transition-colors">Services</Link>
             <Link href="#work" onClick={() => setIsOpen(false)} className="text-base font-medium text-obsidian-muted hover:text-white transition-colors">Work</Link>
             <Link href="#process" onClick={() => setIsOpen(false)} className="text-base font-medium text-obsidian-muted hover:text-white transition-colors">Process</Link>
             <Link href="#faq" onClick={() => setIsOpen(false)} className="text-base font-medium text-obsidian-muted hover:text-white transition-colors">FAQ</Link>

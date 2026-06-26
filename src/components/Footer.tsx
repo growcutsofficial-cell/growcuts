@@ -72,6 +72,7 @@ export default function Footer() {
  
         {/* Footer Nav Links Mirror */}
         <div className="flex space-x-6">
+          <Link href="#services" className="text-xs font-semibold text-obsidian-muted hover:text-white transition-colors">Services</Link>
           <Link href="#work" className="text-xs font-semibold text-obsidian-muted hover:text-white transition-colors">Work</Link>
           <Link href="#process" className="text-xs font-semibold text-obsidian-muted hover:text-white transition-colors">Process</Link>
           <Link href="#faq" className="text-xs font-semibold text-obsidian-muted hover:text-white transition-colors">FAQ</Link>

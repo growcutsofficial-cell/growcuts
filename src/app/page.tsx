@@ -44,6 +44,10 @@ const FaqAccordion = dynamic(() => import("@/components/FaqAccordion"), {
   ssr: false,
   loading: SectionSkeleton
 });
+const ServicesSection = dynamic(() => import("@/components/ServicesSection"), {
+  ssr: false,
+  loading: SectionSkeleton
+});
 const Footer = dynamic(() => import("@/components/Footer"), {
   ssr: false,
   loading: SectionSkeleton
@@ -61,6 +65,7 @@ export default function Home() {
       <Solutions />
       <ProcessTimeline />
       <FaqAccordion />
+      <ServicesSection />
       <Footer />
     </>
   );

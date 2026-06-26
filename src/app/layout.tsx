@@ -54,7 +54,7 @@ export default function RootLayout({
   return (
     <html
       lang="en"
-      className={`${inter.variable} ${outfit.variable} h-full antialiased dark`}
+      className={`${inter.variable} ${outfit.variable} h-full antialiased dark scroll-smooth`}
       suppressHydrationWarning
     >
       <head suppressHydrationWarning />

@@ -8,9 +8,10 @@ import { submitLead } from "@/actions/submitLead";
 interface LeadFormModalProps {
   isOpen: boolean;
   onClose: () => void;
+  initialProjectDetails?: string;
 }
 
-export default function LeadFormModal({ isOpen, onClose }: LeadFormModalProps) {
+export default function LeadFormModal({ isOpen, onClose, initialProjectDetails = "" }: LeadFormModalProps) {
   const [mounted, setMounted] = useState(false);
   const [isPending, setIsPending] = useState(false);
   const [success, setSuccess] = useState(false);
@@ -61,6 +62,13 @@ export default function LeadFormModal({ isOpen, onClose }: LeadFormModalProps) {
     window.addEventListener("keydown", handleKeyDown);
     return () => window.removeEventListener("keydown", handleKeyDown);
   }, [isOpen, handleClose]);
+
+  // Pre-fill form fields with template content on service inquiry triggers
+  useEffect(() => {
+    if (isOpen && initialProjectDetails) {
+      setFormData((prev) => ({ ...prev, projectDetails: initialProjectDetails }));
+    }
+  }, [isOpen, initialProjectDetails]);
 
   if (!mounted) return null;
 
